@@ -1,17 +1,17 @@
 # SpringBoot_Angular_online_bookstore_Backend
 Backend SpringBoot, frontend Angular, PostgreSQL database online bookstore
 
-#Dependency library
+# Dependency library
 Gradle
 
-#Dependencies
+# Dependencies
 spring-boot-starter-web
 spring-boot-starter-data-jpa
 spring-boot-starter-security
 lombok
 postgresql
 
-#Database
+# Database
 PostgreSQL
 
 
