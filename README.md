@@ -1,7 +1,7 @@
 # SpringBoot_Angular_online_bookstore_Backend
 Backend SpringBoot, frontend Angular, PostgreSQL database online bookstore
 
-# Dependency library
+# Dependency manager
 Gradle
 
 # Dependencies
