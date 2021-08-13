@@ -23,6 +23,6 @@ public class PurchaseHistory {
     @Column(name = "price", nullable = false)
     private double price;
 
-    @Column(name = "create_time", nullable = false)
-    private LocalDateTime createTime;
+    @Column(name = "purchase_time", nullable = false)
+    private LocalDateTime purchaseTime;
 }

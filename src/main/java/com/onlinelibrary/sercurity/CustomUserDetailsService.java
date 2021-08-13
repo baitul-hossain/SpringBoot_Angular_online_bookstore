@@ -1,2 +1,4 @@
-package com.onlinelibrary.sercurity;public class CustomUserDetailsService {
+package com.onlinelibrary.sercurity;
+
+public class CustomUserDetailsService {
 }
