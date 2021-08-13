@@ -5,11 +5,11 @@ Backend SpringBoot, frontend Angular, PostgreSQL database online bookstore
 Gradle
 
 # Dependencies
-spring-boot-starter-web
-spring-boot-starter-data-jpa
-spring-boot-starter-security
-lombok
-postgresql
+spring-boot-starter-web  
+spring-boot-starter-data-jpa  
+spring-boot-starter-security  
+lombok  
+postgresql  
 
 # Database
 PostgreSQL
